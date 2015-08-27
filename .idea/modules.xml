@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NmcVod.iml" filepath="$PROJECT_DIR$/NmcVod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NcepuNmcVod.iml" filepath="$PROJECT_DIR$/NcepuNmcVod.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/commontest/commontest.iml" filepath="$PROJECT_DIR$/submodules/commontest/commontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/submodules/commontools/commontools.iml" filepath="$PROJECT_DIR$/submodules/commontools/commontools.iml" />
     </modules>
   </component>
 </project>

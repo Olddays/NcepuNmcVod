@@ -1,1 +1,4 @@
-include ':app'
+include ':app', ':commontools', ':commontest'
+
+project(':commontest').projectDir = file('submodules/commontest')
+project(':commontools').projectDir = file('submodules/commontools')
